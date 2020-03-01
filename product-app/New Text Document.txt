@@ -1,0 +1,5 @@
+http://localhost:8080/#/edit/6
+
+vuejsproduct
+
+https://vuejsproduct.firebaseapp.com/

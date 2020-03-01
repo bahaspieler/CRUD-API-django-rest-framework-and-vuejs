@@ -1,0 +1,20 @@
+.btn-pad {
+    margin-right: 45px;
+}
+
+.btn-trim{
+    margin-right: -5px
+}
+
+.edit_box{
+  border-style: groove;
+  border-width: 2px;
+  padding: 15px;
+}
+
+.bg-gp {
+
+  /*background:rgba(3,87,171,.95) !important;*/ /*0357ab*/
+  /*background: linear-gradient(to right, #8a2387, #e94057, #f27121);*/
+  background: linear-gradient(to right, #009fff, #ec2f4b);
+}
